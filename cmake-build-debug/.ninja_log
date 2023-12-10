@@ -1,0 +1,13 @@
+# ninja log v5
+1	69	7237697988395438	CMakeFiles/FOPProject.dir/main.c.obj	79f8bb58d98aa095
+7	60	7237675691859665	CMakeFiles/FOPProject.dir/hi.c.obj	a80a4649d03470b7
+7	157	7237692299427995	CMakeFiles/FOPProject.dir/Pages.c.obj	335033d9006e1e9f
+9	139	7237675692661844	CMakeFiles/FOPProject.dir/functions.c.obj	f34ff6fc96a47192
+3	130	7237692299157115	CMakeFiles/FOPProject.dir/src/database.c.obj	6a26cac1d67a9d77
+13	144	7237692299307570	CMakeFiles/FOPProject.dir/testcase_processor.c.obj	b660c8aa8e8aac2f
+2	3252	7237686929102270	CMakeFiles/FOPProject.dir/src/shell.c.obj	ea1f1d899efdc30c
+13	4610	7237675737309340	CMakeFiles/FOPProject.dir/src/sqlite3.c.obj	29d21993685e8037
+69	202	7237697989680351	FOPProject.exe	271c9ff064f89e57
+1	118	7239296258284773	build.ninja	82ce4996e004af72
+3	162	7239296475108248	CMakeFiles/FOPProject.dir/main.c.obj	79f8bb58d98aa095
+163	417	7239296477624530	FOPProject.exe	271c9ff064f89e57

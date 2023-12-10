@@ -1,0 +1,33 @@
+void success(FILE*);
+void not_found(FILE*);
+void premission_denied(FILE*);
+void invalid(FILE*);
+int check_sign_in(char*);
+void start(FILE*,FILE*);
+void login(FILE*,FILE*);
+void logout(FILE*,FILE*);
+void change_pass(FILE*,FILE*);
+void approve(FILE*,FILE*);
+void change_student_pass(FILE*,FILE*);
+void remove_student(FILE*,FILE*);
+void deactivate(FILE*,FILE*);
+void Register(FILE*,FILE*);
+void define_self(FILE*,FILE*);
+void define_food(FILE*,FILE*);
+void define_mealplan(FILE*,FILE*);
+void charge_student_account(FILE*,FILE*);
+void add_news(FILE*,FILE*);
+void add_poll(FILE*,FILE*);
+void Reserve(FILE*,FILE*);
+void take_food(FILE*,FILE*);
+void charge_account(FILE*,FILE*);
+void send_charge(FILE*,FILE*);
+void cancel_reserve(FILE*,FILE*);
+void daily_reserve(FILE*,FILE*);
+void define_agent(FILE*,FILE*);
+void change_self(FILE*,FILE*);
+void check_news(FILE*,FILE*);
+void vote(FILE*,FILE*);
+void change_date_time(FILE*,FILE*);
+
+
